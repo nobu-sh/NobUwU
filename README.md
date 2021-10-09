@@ -13,7 +13,7 @@
     <h3 align="left">⚙️ What I Know</h3>
     <p align="left">I am still relativly new to coding but I aspire to gain more knowledge and learn from my mistakes to further develop my expierence.</p>
     <p align="left">I primarily work with these techonologies:</p>
-    <img align="left" src="https://img.shields.io/badge/-Javascript-100e02?logo=javascript&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-Typescript-010a0f?logo=typescript&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-rust-121212?logo=rust&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-React-001113?logo=react&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-Sass/scss-100509?logo=sass&style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-Javascript-100e02?logo=javascript&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-Typescript-010a0f?logo=typescript&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-rust-121212?logo=rust&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-React-001113?logo=react&style=for-the-badge"/>
     <br /><br /><br />
     <p align="left">However, I am knowledgable in a handful more technologies, I just dont utilize them as often these days as they wield no use to my interests.</p>
   </div>
