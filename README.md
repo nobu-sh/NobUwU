@@ -8,7 +8,8 @@
   </div>
   <br /><br />
   <div>
-    <img align="left" src="./static/mafumafu/think.gif" height="280" />
+    <img align="left" src="./static/mafumafu/think.gif" height="290" />
+    <br />
     <h3 align="left">⚙️ What I Know</h3>
     <p align="left">I am still relativly new to coding but I aspire to gain more knowledge and learn from my mistakes to further develop my expierence.</p>
     <p align="left">I primarily work with these techonologies:</p>
