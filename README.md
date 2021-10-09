@@ -26,6 +26,5 @@
     <p>• <a href="https://nobuwu.github.io/sliceyjs">SliceyJS</a> - <i>💫 SliceyJS is a utility wrapper for DiscordJS.</i></p>
     <p>• <a href="https://github.com/NobUwU/BeRP">BeRP</a> - <i>a raknet implementation solution for bedrock edition realms.</i></p>
     <p>• <a href="https://github.com/NobUwU/anonymous-chat-server">anonymous-chat-server</a> - <i>a simple chat server with ran through websockets</i></p>
-    <p>• <a href="https://github.com/CherryBlossomTavern">CherryBlossomTavern</a> - <i>a Discord community aimed towards providing anime based content</i></p>
   </div>
 </div>
