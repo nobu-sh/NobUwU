@@ -35,7 +35,7 @@
     <p>Any type of support is very much appreciated whether it be through donation or pr's!</p>
     <a href="https://ko-fi.com/nobuwu">Ko-Fi</a>
   </div>
-  <br /><br />
+  <br /><br /><br />
   <div>
     <img align="right" src="./static/mafumafu/tired.gif" height="200" />
     <br />
