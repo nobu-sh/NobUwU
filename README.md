@@ -10,7 +10,7 @@
   <div>
     <img align="left" src="./static/mafumafu/think.gif" height="290" />
     <br />
-    <h3 align="left">⚙️ What I Know</h3>
+    <h3 align="left">What I Know ⚙️</h3>
     <p align="left">I am still relativly new to coding but I aspire to gain more knowledge and learn from my mistakes to further develop my expierence.</p>
     <p align="left">I primarily work with these techonologies:</p>
     <img align="left" src="https://img.shields.io/badge/-Javascript-100e02?logo=javascript&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-Typescript-010a0f?logo=typescript&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-rust-121212?logo=rust&style=for-the-badge"/><img align="left" src="https://img.shields.io/badge/-React-001113?logo=react&style=for-the-badge"/>
@@ -34,5 +34,13 @@
     <p>As much as I enjoy coding, it takes a lot of time and effort. I try to open source most of my projects with an <a href="https://opensource.org/licenses/MIT">MIT</a> or <a href="https://opensource.org/licenses/ISC">ISC</a> license so they are completely free to use without attribution.</p>
     <p>Any type of support is very much appreciated whether it be through donation or pr's!</p>
     <a href="https://ko-fi.com/nobuwu">Ko-Fi</a>
+  </div>
+  <br /><br />
+  <div>
+    <img align="right" src="./static/mafumafu/tired.gif" height="200" />
+    <br />
+    <h3>Contact Me 📧</h3>
+    <p>I primarily communicate through Discord for simplicity and easily staying connected with friends.</p>
+    <p><a href="https://discord.com/users/316669053957832706">Nobu#1122</a></p>
   </div>
 </div>
