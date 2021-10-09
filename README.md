@@ -17,4 +17,15 @@
     <br /><br /><br />
     <p align="left">However, I am knowledgable in a handful more technologies, I just dont utilize them as often these days as they wield no use to my interests.</p>
   </div>
+  <div>
+    <img align="right" src="./static/mafumafu/spin.gif" height="290" />
+    <br />
+    <h3>Projects Worth Mentioning ✨</h3>
+    <p>I have made a lot of irregular and weird projects and I hope as time progresses my projects will become even more absurd, but out of all of them here are some I believe are worth considering.</p>
+    <p>• <a href="https://animiru.tv/">Animiru</a> - <i>a platform aimed towards bringing free anime to the community!</i></p>
+    <p>• <a href="https://nobuwu.github.io/sliceyjs">SliceyJS</a> - <i>💫 SliceyJS is a utility wrapper for DiscordJS.</i></p>
+    <p>• <a href="https://github.com/NobUwU/BeRP">BeRP</a> - <i>a raknet implementation solution for bedrock edition realms.</i></p>
+    <p>• <a href="https://github.com/NobUwU/anonymous-chat-server">anonymous-chat-server</a> - <i>a simple chat server with ran through websockets</i></p>
+    <p>• <a href="https://github.com/CherryBlossomTavern">CherryBlossomTavern</a> - <i>a Discord community aimed towards providing anime based content</i></p>
+  </div>
 </div>
