@@ -3,9 +3,9 @@
     <img align="right" src="./static/mafumafu/pat.gif" height="300" />
     <br />
     <h3>A Bit About Me 💻</h3>
-    <p>Hiya, my name is Nobu and I am a weeb that resides in Romania.</p>
+    <p>Hiya, my name is Nobu and I am a nerd that resides in East Moline, Illinois.</p>
     <p>At a young age I found a passion in deconstructing problems into smaller parts and creating a solution hence I found my passion in using different technologies to solve problems.</p>
-    <p><i><strike>And make completely useless shit for fun</strike></i></p>
+    <p><i><strike>And makes completely useless things for fun</strike></i></p>
   </div>
   <div>
     <img align="left" src="./static/mafumafu/think.gif" height="290" />
