@@ -33,7 +33,7 @@
     <h3>Support Me 💸</h3>
     <p>As much as I enjoy coding, it takes a lot of time and effort. I try to open source most of my projects with an <a href="https://opensource.org/licenses/MIT">MIT</a> or <a href="https://opensource.org/licenses/ISC">ISC</a> license so they are completely free to use without attribution.</p>
     <p>Any type of support is very much appreciated whether it be through donation or pr's!</p>
-    <a href="https://github.com/sponsors/NobUwU/">Support 💕</a>
+    <a href="https://github.com/sponsors/NobUwU?frequency=recurring&sponsor=NobUwU">Support 💕</a>
   </div>
   <br /><br /><br />
   <div>
