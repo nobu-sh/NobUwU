@@ -41,8 +41,7 @@
     <br />
     <h3>Contact Me 📧</h3>
     <p>I primarily communicate through Discord for simplicity and easily staying connected with friends, however, if you find this non-professional feel free to contact me via email.</p>
-    <p><a href="https://discord.com/users/316669053957832706">Nobu#1122</a></p>
-    <p><a href="mailto:contact@nobuwu.dev">contact@nobuwu.dev</a></p>
+    <p><a href="https://discord.com/users/316669053957832706">Nobu#1122</a> | <a href="mailto:contact@nobuwu.dev">contact@nobuwu.dev</a></p>
     <p></p>
   </div>
 </div>
