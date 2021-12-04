@@ -25,7 +25,7 @@
     <p>• <a href="https://nobuwu.github.io/sliceyjs">SliceyJS</a> - <i>💫 SliceyJS is a utility wrapper for DiscordJS.</i></p>
     <p>• <a href="https://github.com/NobUwU/BeRP">BeRP</a> - <i>a raknet implementation solution for bedrock edition realms.</i></p>
     <p>• <a href="https://github.com/NobUwU/ani-migrate">ani-migrate</a> - <i>psql migration with per schema versioning.</i></p>
-    <p>• <a href="https://github.com/NobUwU/anonymous-chat-server">anonymous-chat-server</a> - <i>a simple chat server with ran through websockets</i></p>
+    <p>• <a href="https://github.com/NobUwU/chat-server">chat-server</a> - <i>a simple chat server with ran through websockets (WIP)</i></p>
   </div>
   <div>
     <img align="left" src="./static/mafumafu/nom.gif" height="290" />
@@ -33,7 +33,7 @@
     <h3>Support Me 💸</h3>
     <p>As much as I enjoy coding, it takes a lot of time and effort. I try to open source most of my projects with an <a href="https://opensource.org/licenses/MIT">MIT</a> or <a href="https://opensource.org/licenses/ISC">ISC</a> license so they are completely free to use without attribution.</p>
     <p>Any type of support is very much appreciated whether it be through donation or pr's!</p>
-    <a href="https://ko-fi.com/nobuwu">Ko-Fi</a>
+    <a href="https://github.com/sponsors/NobUwU/">Support 💕</a>
   </div>
   <br /><br /><br />
   <div>
